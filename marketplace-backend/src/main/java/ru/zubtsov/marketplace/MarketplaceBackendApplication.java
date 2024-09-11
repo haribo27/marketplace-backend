@@ -1,4 +1,4 @@
-package ru.zubtsov.marketplace.marketplacebackend;
+package ru.zubtsov.marketplace;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
